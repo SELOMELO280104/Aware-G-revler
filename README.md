@@ -1,2 +1,2 @@
-# Aware-G-revler
+# Aware Gorevler
 Aware Robotics tarafından verilen Görevler
